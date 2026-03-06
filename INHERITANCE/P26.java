@@ -38,7 +38,7 @@ System.out.print("ENGINE CAPACITY :"+Engine_Capacity);
 public class P26{
 public static void main(String[] args){
 Scanner sc=new Scanner(System.in);
-System.out.print("CHOOSE CAR OR BIKE");
+System.out.print("CHOOSE CAR OR BIKE : ");
 String v=sc.nextLine();
 
 System.out.print("brand :");
